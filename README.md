@@ -50,9 +50,7 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
 
 ## 🛠️ Support & Troubleshooting
 If the bot is not working as expected:
-- ✅ Ensure you have authorized it correctly.
 - 🔍 Check the bot's status in our Discord server.
-- 🔄 Restart your Twitch chat or re-authenticate via the authorization link.
 - 💬 Reach out for support in **#bubblesautosobot-help** on Discord.
 
 ---

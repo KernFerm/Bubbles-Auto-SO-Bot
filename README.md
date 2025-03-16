@@ -26,17 +26,10 @@ To add the bot to your channel, ping **BubblesAutoSOBot** in the **#bubblesautos
 
 ### Step 2: Authorize the Bot
 
-Make sure to **mod the bot** in your Twitch channel by typing:
+Users do not start the bot themselves. To have the bot added to your channel, join the Discord and request access. Once added, make sure to mod the bot in your Twitch channel by typing:
 ```
 /mod BubblesAutoSOBot
 ```
-Once access is granted, follow these steps to authenticate the bot:
-1. 🚀 Start the bot on the host server.
-2. 🔗 The bot will provide an authorization link in the console.
-3. 🌐 Open the link in your browser and log in with your Twitch account.
-4. ✅ Authorize the bot to join your channel and interact in chat.
-5. 🤖 Once authorized, the bot will automatically join and start functioning.
-
 ---
 
 ## ⚡ How the Bot Works

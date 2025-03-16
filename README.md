@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KernFerm/Bubbles-Auto-SO-Bot/blob/main/bubbles-auto-so-bot.png" width="400" alt="Bubbles Auto Shoutout Bot Logo">
+  <img src="https://github.com/KernFerm/Bubbles-Auto-SO-Bot/blob/main/bubbles-auto-so-bot.png" width="360" alt="Bubbles Auto Shoutout Bot Logo">
 </p>
 
 # 🚀 Bubbles Auto Shoutout Bot 🎉

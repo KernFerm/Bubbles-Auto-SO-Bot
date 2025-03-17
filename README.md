@@ -54,8 +54,7 @@ If the bot is not working as expected:
 - 💬 Reach out for support in **#bubblesautosobot-help** on Discord.
 
 ---
-
-## 🔒 License
-Bubbles Auto Shoutout Bot is provided as-is. Use at your own discretion. If you have suggestions or feature requests, let us know via Discord!
-
+# 🔒 LICENSE
+## ***This project is proprietary and all rights are reserved by the author.***
+---
 🎮 **Happy Streaming!** 🚀

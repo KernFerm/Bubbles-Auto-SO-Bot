@@ -35,7 +35,7 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
 ## ⚡ How the Bot Works
 1. When a user chats in your stream, the bot checks:
    - 🕒 If the user has already received a shoutout in the last 30 minutes.
-   - 🚫 If the user is a known bot (from the ignore list).
+   - 🚫 It will ignore known bots (from the ignore list).
    - 🎥 If the user is the broadcaster (the bot does not shout out the channel owner).
 2. If all conditions are met, the bot sends a message like:
    ```

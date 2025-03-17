@@ -9,7 +9,7 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 
 ### ✨ Features:
 - 🤖 **Automatic Shoutouts:** No need for manual commands—streamers get an automatic shoutout when they chat.
-- ⏳ **Cooldown System:** Prevents excessive shoutouts by enforcing a 4-hour cooldown per user.
+- ⏳ **Cooldown System:** Prevents excessive shoutouts by enforcing a 30-minute cooldown per user.
 - 🚫 **Ignore List:** The bot will not shoutout known Twitch bots or the broadcaster.
 - 🎮 **Game Information:** When a user is live, the bot includes their current game in the shoutout.
 - 🔗 **Twitch IRC Connection:** Seamlessly integrates into Twitch chat without the need for additional configuration.

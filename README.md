@@ -5,7 +5,7 @@
 # 🚀 Bubbles Auto Shoutout Bot 🎉
 
 ## What is Bubbles Auto Shoutout Bot?
-Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enhance engagement in your chat by automatically giving shoutouts to streamers who participate in your channel. This bot helps promote other streamers and fosters a supportive Twitch community by recognizing active chatters and encouraging networking.
+Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enhance engagement in your chat by automatically giving shoutouts to streamers/viewers/followers who participate in your channel. This bot helps promote other streamers and fosters a supportive Twitch community by recognizing active chatters and encouraging networking.
 
 ### ✨ Features:
 - 🤖 **Automatic Shoutouts:** No need for manual commands—streamers get an automatic shoutout when they chat.

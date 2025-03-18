@@ -41,10 +41,6 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
    ```
    🚀 Hey everyone! Don't miss out on @username's incredible Twitch channel at https://twitch.tv/username! They're a fantastic streamer and a valued member of our community! 🎉
    ```
-3. If the user is currently live, the bot includes their viewer count and game:
-   ```
-   🎉 Check out @username at https://twitch.tv/username! They are live right now with 50 viewers playing Call of Duty! 🔥
-   ```
 
 ---
 

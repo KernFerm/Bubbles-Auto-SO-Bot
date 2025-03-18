@@ -41,6 +41,10 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
 ```
 🚀 Hey everyone! PogChamp PogChamp Check this incredible person out, @${username} is an amazing supporter SeemsGood SeemsGood !! @${tags.username} Is showing VirtualHug VirtualHug the Streamer!!! TwitchUnity TwitchUnity FallWinning FallWinning !!@ Make sure to add them a follow and show your support KAPOW KAPOW! Twitch channel at PowerUpL https://twitch.tv/${username} PowerUpR    VirtualHug VirtualHug VirtualHug  
 ```
+## ScreenShot Image
+<p align="left">
+  <img src="https://github.com/KernFerm/Bubbles-Auto-SO-Bot/blob/main/screenshot.png" width="360" alt="screenshot">
+</p>
 
 ---
 

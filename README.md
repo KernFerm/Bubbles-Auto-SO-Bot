@@ -38,9 +38,9 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
    - 🚫 It will ignore known bots (from the ignore list).
    - 🎥 If the user is the broadcaster (the bot does not shout out the channel owner).
 2. If all conditions are met, the bot sends a message like:
-   ```
-   🚀 Hey everyone! Don't miss out on @username's incredible Twitch channel at https://twitch.tv/username! They're a fantastic streamer and a valued member of our community! 🎉
-   ```
+```
+🚀 Hey everyone! Check this incredible person out, @${username} is an amazing supporter! @${tags.username} is showing love to @${username}! ❤️✨ Make sure to drop them a follow and show your support! Twitch channel at https://twitch.tv/${username}! 🎉  
+```
 
 ---
 

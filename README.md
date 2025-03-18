@@ -46,7 +46,7 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
 
 ## 🛠️ Support & Troubleshooting
 If the bot is not working as expected:
-- 🔍 Check the bot's status in our Discord server.
+- 🔍 Check the bot's status in our Discord server. [DISCORD INVITE LINK](https://discord.gg/eCGpWUf5aR)
 - 💬 Reach out for support in **#bubblesautosobot-help** on Discord.
 
 ---

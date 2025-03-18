@@ -45,7 +45,10 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
 <p align="left">
   <img src="https://github.com/KernFerm/Bubbles-Auto-SO-Bot/blob/main/screenshot.png" width="360" alt="screenshot">
 </p>
-- tested it out in a channel i mod for. that is why you see mod icon next to my name `BubblesTheDev`
+
+
+- tested it out in a channel i mod for. that is why you see mod icon next to my name `BubblesTheDev`.
+
 ---
 
 ## 🛠️ Support & Troubleshooting

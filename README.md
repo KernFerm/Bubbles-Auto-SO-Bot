@@ -26,10 +26,11 @@ To add the bot to your channel READ BELOW:
 ---
 ### Step 2: Authorize the Bot
 
-Users do not start the bot themselves. To have the bot added to your channel, join the Discord and request access. Once added, make sure to mod the bot in your Twitch channel by typing:
+- Make sure to mod the bot in your Twitch channel by typing:
 ```
 /mod BubblesAutoSOBot
 ```
+- Once done let `Bubbles The Dev` know. I will add your twitch to the application, thank you.
 ---
 
 ## ⚡ How the Bot Works

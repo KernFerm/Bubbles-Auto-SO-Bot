@@ -26,7 +26,7 @@ To add the bot to your channel READ BELOW:
 ---
 ### Step 2: Authorize the Bot
 
-- Make sure to mod the bot in your Twitch channel by typing:
+- Make sure to `mod` the bot in your Twitch channel by typing:
 ```
 /mod BubblesAutoSOBot
 ```

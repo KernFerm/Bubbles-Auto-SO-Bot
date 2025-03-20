@@ -13,6 +13,12 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 - 🚫 **Ignore List:** The bot will not shoutout known `Twitch bots` or the `broadcaster`.
 - 🔗 **Twitch IRC Connection:** Seamlessly integrates into Twitch chat without the need for additional configuration.
 
+## ⚡ How the Bot Works
+1. When a user chats in your stream, the bot checks:
+   - 🕒 If the user has already received a shoutout in the last 30 minutes.
+   - 🚫 It will ignore known bots (from the ignore list).
+   - 🎥 If the user is the broadcaster (the bot does not shout out the channel owner).
+  
 ---
 
 ## 📌 How to Add Bubbles Auto Shoutout Bot to Your Twitch Channel
@@ -32,13 +38,6 @@ To add the bot to your channel READ BELOW:
 ```
 - Once done let `Bubbles The Dev` know. I will add your twitch to the application, thank you.
 ---
-
-## ⚡ How the Bot Works
-1. When a user chats in your stream, the bot checks:
-   - 🕒 If the user has already received a shoutout in the last 30 minutes.
-   - 🚫 It will ignore known bots (from the ignore list).
-   - 🎥 If the user is the broadcaster (the bot does not shout out the channel owner).
-
 
 ## ScreenShot Image
 <p align="left">

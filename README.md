@@ -20,10 +20,10 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 
 ### Step 1: Request Access
 To add the bot to your channel, ping **BubblesAutoSOBot** in the **#bubblesautosobot-help** channel on Discord.
-
+---
 # **IF YOU WANT THE BOT IN YOUR TWITCH CHANNEL JOIN THE DISCORD SERVER ---> [DISCORD INVITE LINK](https://discord.gg/eCGpWUf5aR)**
 ## **Contact:** Ping `Bubbles` in **#bubblesautosobot-help** with your Twitch username to request the bot to be added.
-
+---
 ### Step 2: Authorize the Bot
 
 Users do not start the bot themselves. To have the bot added to your channel, join the Discord and request access. Once added, make sure to mod the bot in your Twitch channel by typing:
@@ -37,10 +37,8 @@ Users do not start the bot themselves. To have the bot added to your channel, jo
    - 🕒 If the user has already received a shoutout in the last 30 minutes.
    - 🚫 It will ignore known bots (from the ignore list).
    - 🎥 If the user is the broadcaster (the bot does not shout out the channel owner).
-2. If all conditions are met, the bot sends a message like:
-```
-🚀 Hey everyone! PogChamp PogChamp Check this incredible person out, @${username} is an amazing supporter SeemsGood SeemsGood !! @${tags.username} Is showing VirtualHug VirtualHug to the Streamer!!! TwitchUnity TwitchUnity FallWinning FallWinning !! Make sure to add them a follow and show your support KAPOW KAPOW! Twitch channel at PowerUpL https://twitch.tv/${username} PowerUpR    VirtualHug VirtualHug VirtualHug  
-```
+
+
 ## ScreenShot Image
 <p align="left">
   <img src="https://github.com/KernFerm/Bubbles-Auto-SO-Bot/blob/main/image-1.png" width="360" alt="screenshot">

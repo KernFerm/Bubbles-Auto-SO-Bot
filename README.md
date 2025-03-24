@@ -14,8 +14,10 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 - 🔗 **Twitch IRC Connection:** Seamlessly integrates into Twitch chat without the need for additional configuration.
 ---
 
-## 📌 How to Add Bubbles Auto Shoutout Bot to Your Twitch Channel
 ---
+---
+## 📌 How to Add Bubbles Auto Shoutout Bot to Your Twitch Channel
+
 ### Authorize the Bot
 
 - Make sure to `mod` the bot in your Twitch channel by typing:
@@ -25,6 +27,7 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 ```
 - Join the discord **🚨🚨[Click Here To Join Discord Server](https://discord.gg/eCGpWUf5aR)🚨🚨**
 - `PING` ***Bubbles*** in channel **`#bubblesautosobot-help`** with your Twitch username to request the bot to be added.
+---
 ---
 
 ## ScreenShot Image

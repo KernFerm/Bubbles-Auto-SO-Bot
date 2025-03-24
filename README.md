@@ -39,7 +39,7 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 
 ## 🛠️ Support & Troubleshooting
 If the bot is not working as expected:
-- 🔍 Check the bot's status in our Discord server. [DISCORD INVITE LINK](https://discord.gg/eCGpWUf5aR)
+- 🔍 Check the bot's status in our Discord server.
 - 💬 Reach out for support in **#bubblesautosobot-help** on Discord.
 
 ---

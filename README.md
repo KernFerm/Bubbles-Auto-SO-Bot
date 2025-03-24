@@ -29,6 +29,7 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 - `PING` ***Bubbles*** in channel **`#bubblesautosobot-help`** with your Twitch username to request the bot to be added.
 ---
 ---
+---
 
 ## ScreenShot Image
 <p align="left">

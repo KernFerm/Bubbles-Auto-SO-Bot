@@ -15,21 +15,15 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 ---
 
 ## 📌 How to Add Bubbles Auto Shoutout Bot to Your Twitch Channel
-
-### Step 1: Request Access
-To add the bot to your channel READ BELOW:
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 ---
-# 🚨🚨 **IF YOU WANT THE BOT IN YOUR TWITCH CHANNEL JOIN THE DISCORD SERVER ---> [DISCORD INVITE LINK](https://discord.gg/eCGpWUf5aR)** 🚨🚨
-## 🚨🚨 **Contact:** Ping `Bubbles` in **`#bubblesautosobot-help`** with your Twitch username to request the bot to be added. 🚨🚨
----
-### Step 2: Authorize the Bot
+### Authorize the Bot
 
 - Make sure to `mod` the bot in your Twitch channel by typing:
 ```
 /mod BubblesAutoSOBot
 ```
-- Once done let `Bubbles The Dev` know. I will add your twitch to the application, thank you.
+- Join the discord **🚨🚨[Click Here To Join Discord Server](https://discord.gg/eCGpWUf5aR)🚨🚨**
+- `PING` ***Bubbles*** in channel **`#bubblesautosobot-help`** with your Twitch username to request the bot to be added.
 ---
 
 ## ScreenShot Image

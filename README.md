@@ -16,7 +16,7 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 
 ---
 ---
-## 📌ADDING BUBBLESAUTOSOBOT TO YOUR TWITCH CHANNEL📌
+## 📌ADDING `BUBBLESAUTOSOBOT` TO YOUR TWITCH CHANNEL📌
 
 ### Authorize the Bot
 

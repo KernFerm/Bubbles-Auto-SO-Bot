@@ -25,7 +25,7 @@ Bubbles Auto Shoutout Bot is a powerful and automated Twitch bot designed to enh
 ```
 /mod BubblesAutoSOBot
 ```
-- Join the discord **🚨🚨[Click Here To Join Discord Server](https://discord.gg/eCGpWUf5aR)🚨🚨**
+- Join the discord **🚨🚨[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)🚨🚨**
 - `PING` ***Bubbles*** in channel **`#bubblesautosobot-help`** with your ***Twitch Username*** to request the bot to be added.
 ---
 ---
